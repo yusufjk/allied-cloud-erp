@@ -1,0 +1,21 @@
+{
+  "hints": [],
+  "groups": [],
+  "properties": [
+    {
+      "name": "firestore.collection",
+      "description": "Description for firestore.collection.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "firestore.key",
+      "description": "Description for firestore.key.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "firestore.url",
+      "description": "Description for firestore.url.",
+      "type": "java.lang.String"
+    }
+  ]
+}

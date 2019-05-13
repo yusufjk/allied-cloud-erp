@@ -1,0 +1,7 @@
+com\yusufjk\models\Product.class
+com\yusufjk\App.class
+com\yusufjk\db\config\FirestoreConfig.class
+com\yusufjk\db\dao\ProductDao.class
+com\yusufjk\db\service\DbServiceRepository.class
+com\yusufjk\controllers\TestController.class
+META-INF\spring-configuration-metadata.json

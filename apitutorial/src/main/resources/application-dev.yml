@@ -1,0 +1,5 @@
+firestore:
+  url: https://springapiapp.firebaseio.com
+  key: ./serviceAccountKey.json
+  collection: messages
+
